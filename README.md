@@ -6,3 +6,5 @@
 [![Groove Pattern](https://raw.githubusercontent.com/FT-cnc/mazak/main/groove-pattern.png)](https://www.youtube.com/watch?v=B6s7xt4_GOo)
 
 [![Varieties of Cutting Pattern on right-tapered groove]](https://www.youtube.com/watch?v=B6s7xt4_GOo)
+
+[![pattern-2 choices]](https://raw.githubusercontent.com/FT-cnc/mazak/main/pattern-2.png)
